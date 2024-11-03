@@ -5,3 +5,5 @@
 // Project Repository URI: https://github.com/
 // Description: Handles all the browser level activities (e.g. tab management, etc.)
 // License: MIT
+
+alert("background.js")
