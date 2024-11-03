@@ -10,7 +10,7 @@
   "content_scripts": [
     {
       "matches": [
-        "<all_urls>"
+        "*://app.senecalearning.com/*"
       ],
       "js": [
         "content.js"
